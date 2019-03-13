@@ -1,0 +1,578 @@
+# Radios#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel
+http://192.99.150.31:9101/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel
+http://192.99.150.31:9101/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL
+http://192.99.150.31:9101/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel
+http://192.99.150.31:9101/stream?TV-SUPER-HD-IPTV-2
+
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOTECA ANOS 70
+http://192.99.150.31:8241/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",AXE FOLIA
+http://192.99.150.31:8305/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",AXÉ
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Axé
+http://192.99.150.31:8305/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Axé
+http://192.99.150.31:8305/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",AXE FOLIA
+http://192.99.150.31:8305/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Axé
+http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NEW AGE
+http://192.99.150.31:8353/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NEW AGE
+http://192.99.150.31:8353/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Infantil
+http://192.99.150.31:8371/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?I
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Saudade Anos 80
+http://192.99.150.31:8697/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Anos 80
+http://192.99.150.31:8697/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REGGAE
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REGGAE
+http://192.99.150.31:8715/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Reggae
+http://192.99.150.31:8715/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Reggae
+http://192.99.150.31:8715/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REGGAE
+http://192.99.150.31:8715/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Reggae
+http://192.99.150.31:8715/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Hip Hop BR
+http://192.99.150.31:8721/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HIP HOP
+http://192.99.150.31:8721/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HIP HOP
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Hip Hop
+http://192.99.150.31:8721/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Hip Hop
+http://192.99.150.31:8721/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HIP HOP
+http://192.99.150.31:8721/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Hip Hop
+http://192.99.150.31:8721/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB MUSICALIDADE
+http://192.99.150.31:8775/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB
+http://192.99.150.31:8775/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB
+http://192.99.150.31:8775/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB MUSICALIDADE
+http://192.99.150.31:8775/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MPB
+http://192.99.150.31:8775/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Jovem Guarda
+http://192.99.150.31:8801/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
+http://192.99.150.31:8801/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
+http://192.99.150.31:8801/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
+http://192.99.150.31:8801/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",VERSAO BRASILEIRA
+http://192.99.150.31:8849/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",VERSAO BRASILEIRA
+http://192.99.150.31:8849/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",LOVE SONGS
+http://192.99.150.31:8897/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",LOVE SONGS
+http://192.99.150.31:8897/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",LOVE SONGS
+http://192.99.150.31:8897/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TECNO BREGA
+http://192.99.150.31:8989/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TECNO BREGA
+http://192.99.150.31:8989/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BREGA HITS
+http://192.99.150.31:9007/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BREGAS
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Brega
+http://192.99.150.31:9007/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Brega
+http://192.99.150.31:9007/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BREGA HITS
+http://192.99.150.31:9007/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Brega
+http://192.99.150.31:9007/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FORRO
+http://192.99.150.31:9019/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FORRÓ
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Forró
+http://192.99.150.31:9019/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Forró
+http://192.99.150.31:9019/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FORRO
+http://192.99.150.31:9019/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Forró
+http://192.99.150.31:9019/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Dubstep FM*
+http://192.99.150.31:9083/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DUSBSTEP
+http://192.99.150.31:9083/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DUBSTEP
+http://192.99.150.31:9083/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Funk Proibidão
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FUNK
+http://192.99.150.31:9089/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FUNK
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Funk
+http://192.99.150.31:9089/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Funk
+http://192.99.150.31:9089/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",FUNK
+http://192.99.150.31:9089/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Funk
+http://192.99.150.31:9089/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ELECTRO HOUSE
+http://192.99.150.31:9095/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ELETRO HOUSE
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Eletrônica
+http://192.99.150.31:9095/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Eletrônica
+http://192.99.150.31:9095/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ELECTRO HOUSE
+http://192.99.150.31:9095/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Eletrônica
+http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",PAGODE
+http://192.99.150.31:9113/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",PAGODE
+http://192.99.150.31:9113/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROCK CLASSICO
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rock Clássico
+http://192.99.150.31:9125/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rock Clássico
+http://192.99.150.31:9125/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROCK CLASSICO
+http://192.99.150.31:9125/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rock Clássico
+http://192.99.150.31:9125/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BOLEROS EM SERESTA
+http://192.99.150.31:9131/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BOLEROS EM SERESTA
+http://192.99.150.31:9131/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Roberto Carlos
+http://192.99.150.31:9137/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
+http://192.99.150.31:9137/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS FM
+http://192.99.150.31:9137/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS FM
+http://192.99.150.31:9137/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
+http://192.99.150.31:9137/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZ
+http://192.99.150.31:9155/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZES
+http://192.99.150.31:9155/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MEGA MIX
+http://192.99.150.31:9161/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MEGA MIX
+http://192.99.150.31:9161/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO UNIVERSITARIO
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
+http://192.99.150.31:9191/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
+http://192.99.150.31:9191/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO UNIVERSITARIO
+http://192.99.150.31:9191/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
+http://192.99.150.31:9191/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CLUBE DA CRIANCA
+http://192.99.150.31:9431/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MÚSICAS INFANTIS
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Kids
+http://192.99.150.31:9431/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Kids
+http://192.99.150.31:9431/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",CLUBE DA CRIANCA
+http://192.99.150.31:9431/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Kids
+http://192.99.150.31:9431/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RODEIO
+http://192.99.150.31:9473/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RODEIO
+http://192.99.150.31:9473/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJA
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJO 2
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo
+http://192.99.150.31:9485/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo
+http://192.99.150.31:9485/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SERTANEJA
+http://192.99.150.31:9485/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Sertanejo
+http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BRASÍLIA FM
+http://192.99.18.13:8720/live
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rock FM
+http://80.86.106.143:9128/rockfm.mp3?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",inTV
+http://80.91.115.211:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",4E TV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SKY CINEMA ACTION
+http://82.46.138.46:5555/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SKY CINEMA DISNEY
+http://82.46.138.46:5555/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SKY CINEMA COMEDY
+http://82.46.138.46:5555/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SKY CINEMA THRILLER
+http://82.46.138.46:5555/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SKY CINEMA PREMIERE
+http://82.46.138.46:5555/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Digi 24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Makan 33 (Opt-1)
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Kan11 [Israel]
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Jug TV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",RTK 4 [Kosovo]
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Deepam TV
+http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Hromadske TV
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MULTI TV CIDADES
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",MultiTV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",La Sexta [Espanha]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Mega [Espanha]
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Energia 97 Fm*
+http://aac.97fm.com.br/energia?type=.flv
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Energia FM
+http://aac.97fm.com.br/energia?type=.flv?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Energia FM
+http://aac.97fm.com.br/energia?type=.flv?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ABC News [Estados Unidos]
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ABP Asmita
+http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",JuCeTV US
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Arabic: Ø§Ø¨ÙˆØ¸Ø¨ÙŠ Ø¯Ø±Ø§Ù…Ø§
+http://adtv.ercdn.net/addrama/addrama.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Abu Dhabi Sports SD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Abu Dhabi Sports 2 SD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TV Africa (Ghana)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Raagam Radio
+http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Akaram Gallata TV
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ALEX BERLIN-Urban Music
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 SP*
+http://antena1.newradio.it/stream?1479613766876.aac
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
+http://antena1.newradio.it/stream?ext=.mp3?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
+http://antena1.newradio.it/stream?ext=.mp3?CANALANDRONALTAS
