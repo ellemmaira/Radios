@@ -1,5 +1,7 @@
 # Radios#EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",GOSPEL
 http://192.99.150.31:9101/stream
 
@@ -18,6 +20,62 @@ http://192.99.150.31:9101/stream?IPTVONLINE
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Gospel
 http://192.99.150.31:9101/stream?TV-SUPER-HD-IPTV-2
 
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ANOS 80
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Saudade Anos 80
+http://192.99.150.31:8697/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Anos 80
+http://192.99.150.31:8697/stream?TV-SUPER-HD-IPTV-2
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
+http://192.99.150.31:8962/stream?IPTVONLINE
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 SP*
+http://antena1.newradio.it/stream?1479613766876.aac
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
+http://antena1.newradio.it/stream?ext=.mp3?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
+http://antena1.newradio.it/stream?ext=.mp3?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Infantil
+http://192.99.150.31:8371/;
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?I
+
+#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
+http://192.99.150.31:8962/stream?TV-SUPER-HD-IPTV-2
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",DISCOTECA ANOS 70
 http://192.99.150.31:8241/stream
@@ -45,36 +103,6 @@ http://192.99.150.31:8353/stream
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",NEW AGE
 http://192.99.150.31:8353/stream?IPTVONLINE
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Rádio Infantil
-http://192.99.150.31:8371/;
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream?
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream?I
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",ANOS 80
-http://192.99.150.31:8697/stream?
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Saudade Anos 80
-http://192.99.150.31:8697/stream?CANALANDRONALTAS
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream?IPTVONLINE
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Anos 80
-http://192.99.150.31:8697/stream?TV-SUPER-HD-IPTV-2
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",REGGAE
 http://192.99.150.31:8715/stream
@@ -159,24 +187,6 @@ http://192.99.150.31:8897/stream?
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",LOVE SONGS
 http://192.99.150.31:8897/stream?IPTVONLINE
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream?
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?CANALANDRONALTAS
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream?IPTVONLINE
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?TV-SUPER-HD-IPTV-2
 
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TECNO BREGA
 http://192.99.150.31:8989/stream
@@ -568,11 +578,3 @@ http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitr
 #EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",TV Galicia America | SD
 http://america-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 SP*
-http://antena1.newradio.it/stream?1479613766876.aac
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
-http://antena1.newradio.it/stream?ext=.mp3?CANAISGLAU
-
-#EXTINF:-1 tvg-logo="" group-title="Lista IPTV Brasil HD",Antena 1 FM
-http://antena1.newradio.it/stream?ext=.mp3?CANALANDRONALTAS
